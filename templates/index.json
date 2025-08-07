@@ -1,1 +1,116 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Browse our latest products","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image":"shopify:\/\/shop_images\/a-hand-removes-a-sweater-from-a-clothing-rack.jpg","image_2":"shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg","image_overlay_opacity":40,"image_height":"medium","image_behavior":"ambient","desktop_content_position":"bottom-center","desktop_content_alignment":"center","show_text_box":false,"color_scheme":"scheme-3","stack_images_on_mobile":false,"mobile_content_alignment":"center","show_text_below":false}},"featured_collection":{"type":"featured-collection","settings":{"collection":"all","products_to_show":8,"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","columns_desktop":4,"enable_desktop_slider":false,"full_width":false,"show_view_all":true,"view_all_style":"solid","color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"ss_simple_faq_ff9rk3":{"type":"ss-simple-faq","blocks":{"text_z6HYhB":{"type":"text","settings":{"question":"Do you offer free shipping?","answer":"<p>Yes, we provide free standard shipping on all orders over $100. For orders under $100, a small shipping fee applies, which will be shown at checkout.<\/p>"}},"text_qGeiBp":{"type":"text","settings":{"question":"What is your refund policy?","answer":"<p>If you're not completely satisfied with your purchase, you can return it within 14 for a full refund. Please ensure the item is unused and in its original packaging.<\/p>"}},"text_qFBhcX":{"type":"text","settings":{"question":"How can I create headshots with AI?","answer":"<p>Need professional headshots quickly? <a href=\"https:\/\/headshots.so\">headshots.so<\/a>, <a href=\"https:\/\/headshots.dk\">headshots.dk<\/a>, <a href=\"https:\/\/headshots.se\">headshots.se<\/a>, and <a href=\"https:\/\/headshots.no\">headshots.no<\/a> make it easy to produce high-quality images in just a few minutes. Whether you’re updating your LinkedIn profile or website, these platforms help you get a polished look without any hassle.<\/p>"}}},"block_order":["text_z6HYhB","text_qGeiBp","text_qFBhcX"],"name":"SS - FAQ #1","settings":{"heading":"Frequently Asked Questions","icon_color":"#242833","hover_color":"#242833","question_color":"#242833","background_color":"#f3f3f3","answer_color":"#000","answer_bg_color":"#ffffff","questions-font-size":1.5}}},"order":["image_banner","featured_collection","ss_simple_faq_ff9rk3"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": ["heading", "button"],
+      "settings": {
+        "image": "shopify://shop_images/a-hand-removes-a-sweater-from-a-clothing-rack.jpg",
+        "image_2": "shopify://shop_images/woman-shopping-for-clothes.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "image_behavior": "ambient",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "ss_simple_faq_ff9rk3": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_z6HYhB": {
+          "type": "text",
+          "settings": {
+            "question": "Do you offer free shipping?",
+            "answer": "<p>Yes, we provide free standard shipping on all orders over $100. For orders under $100, a small shipping fee applies, which will be shown at checkout.</p>"
+          }
+        },
+        "text_qCelBi": {
+          "type": "text",
+          "settings": {
+            "question": "Do you know Winter Story?",
+            "answer": "<p>Yes, it's a romantic love story about college students.</p>"
+          }
+        },
+        "text_qGeiBp": {
+          "type": "text",
+          "settings": {
+            "question": "What is your refund policy?",
+            "answer": "<p>If you're not completely satisfied with your purchase, you can return it within 14 for a full refund. Please ensure the item is unused and in its original packaging.</p>"
+          }
+        },
+        "text_qFBhcX": {
+          "type": "text",
+          "settings": {
+            "question": "How can I create headshots with AI?",
+            "answer": "<p>Need professional headshots quickly? <a href=\"https://headshots.so\">headshots.so</a>, <a href=\"https://headshots.dk\">headshots.dk</a>, <a href=\"https://headshots.se\">headshots.se</a>, and <a href=\"https://headshots.no\">headshots.no</a> make it easy to produce high-quality images in just a few minutes. Whether you’re updating your LinkedIn profile or website, these platforms help you get a polished look without any hassle.</p>"
+          }
+        }
+      },
+      "block_order": ["text_z6HYhB", "text_qCelBi", "text_qGeiBp", "text_qFBhcX"],
+      "name": "SS - FAQ #1",
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#242833",
+        "hover_color": "#242833",
+        "question_color": "#242833",
+        "background_color": "#f3f3f3",
+        "answer_color": "#000",
+        "answer_bg_color": "#ffffff",
+        "questions-font-size": 1.5
+      }
+    }
+  },
+  "order": ["image_banner", "featured_collection", "ss_simple_faq_ff9rk3"]
+}
